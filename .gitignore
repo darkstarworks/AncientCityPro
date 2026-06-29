@@ -1,0 +1,32 @@
+.idea/
+out/
+.idea_modules/
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*~
+.directory
+Icon
+._*
+.gradle
+build/
+gradle-app.setting
+.gradletasknamecache
+**/build/
+
+# AI / IDE local state
+.claude/
+.junie/
+CLAUDE.md
+
+# Runtime / development artifacts
+run/
+database.db
+*.db
+nul
